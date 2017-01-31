@@ -26,11 +26,8 @@ According to a legend, Baduk is made by Emperor Yao. In early days of China, the
 
 * 전설: legend
 * 요왕: King Yao of ancient China
-	<li>정치: politics
-
-* 정치를 잘하다: good at politics
-
-</li>
+* 정치: politics
+	* 정치를 잘하다: being a good ruler.
 * 교육: educate
 
 이 전설 이후 제일 오래된 기록은 논어와 맹자입니다. 이 책들은 수천년간 아시아에서 교과서로 쓰였는데, 이 책들에 바둑에 대한 이야기가 조금 나옵니다. 특히 논어에서는 "하루 종일 배불리 먹고 아무것도 하지 않아서야 되겠는가. 바둑이나 장기 같은 놀이가 있지 않은가. 그거라도 하는 것이 훨씬 낫다"라는 이야기를 합니다.
@@ -41,11 +38,8 @@ After this legend, most reliable records that contain Baduk are Analects of Conf
 * 맹자: Book by Mencius
 * 교과서: textbook
 * 배불리 먹다: eat full
-	<li>장기: Xiangqi, Janggi
-
-* It is a board game similar to Chess.
-
-</li>
+* 장기: Xiangqi, Janggi
+	* It is a board game similar to Chess.
 
 세계에서 제일 오래된 바둑판은 기원전 150년 정도의 무덤에서 발견된 것입니다. 그것 다음으로 오래된 바둑판은 기원후 180년 정도의 것인데 특이하게도 가로세로 17줄로 되어 있습니다. 언제부터 17줄이 19줄로 바뀌었는지는 <span style="color: # ff0000;"><strong>불분명합니다</strong></span>. 그것보다 더 옛날의 바둑판은 이것보다 줄 수가 더 적었을 것이라고 학자들은 추측합니다. 이제는 전 세계에서 19줄짜리 바둑판만 쓰니까 17줄짜리는 사라진 줄 알았는데, 요즘도 티베트 지방으로 가면 17줄짜리 바둑판이 존재한다고 합니다.
 

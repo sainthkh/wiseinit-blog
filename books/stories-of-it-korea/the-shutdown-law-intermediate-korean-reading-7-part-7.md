@@ -40,31 +40,22 @@ Except for pro-gamers, video games should be hobbies. Everyone should avoid bein
 
 * ~가 아닌 이상: except for ~
 * 여가 활동: hobby
-	<li>중독이 되다: addicted to something
-
-* Sometimes it is also called 중독되다 to be poisoned. For example, food poisoning is 식중독 in Korean.
-
-</li>
+* 중독이 되다: addicted to something
+	* Sometimes it is also called 중독되다 to be poisoned. For example, food poisoning is 식중독 in Korean.
 * 일부: some, partial
 * 몰입하다: to be immersed in
 * 중독성: addictiveness
-	<li>사회적 인식: many people think that some idea is true
-
-* 사회적: social
-* 인식: realize, aware
-
-</li>
+* 사회적 인식: many people think that some idea is true
+	* 사회적: social
+	* 인식: realize, aware
 * 보호: protect
 
 셧다운제란 만 16세 미만의 아이들이 밤 12시에서 새벽 6시까지 컴퓨터 게임에 접속하지 못하게 하는 법으로 12시가 되면 성 밖을 나가야 하는 신데렐라와 비슷하다고 해서 신데렐라 법이라고도 불립니다. 16세 미만의 학생들이 12시에 게임에 접속하려 할 경우 강제로 게임이 종료됩니다. 그래서 그 시간대에 게임을 하는 16세 이상의 사람들은 아이들이 우르르 사라지는 것을 보게 됩니다.
 
 Shutdown law prohibits the teenagers under the age of 16 from playing games from twelve at night to 6 in the morning. It is a bit similar to Cinderella who had to get out of the castle before twelve at night, so the law is also known as Cinderella Law. If the kids under the age of 16 try to play games at that time, the games are forcefully shut down, so the people whose age is 16 or more can see the users disappearing if they played games at that period.
 
-	<li>미만: less than, under
-
-* If you want to know more about 이상, 이하, 미만, 초과, [visit this link](/difference-between-%EC%9D%B4%EC%83%81-%EC%9D%B4%ED%95%98-%EC%B4%88%EA%B3%BC-%EB%AF%B8%EB%A7%8C/).
-
-</li>
+* 미만: less than, under
+	* If you want to know more about 이상, 이하, 미만, 초과, [visit this link](/difference-between-%EC%9D%B4%EC%83%81-%EC%9D%B4%ED%95%98-%EC%B4%88%EA%B3%BC-%EB%AF%B8%EB%A7%8C/).
 * 접속: connect
 * 신데렐라: Cinderella
 * 강제로: forcefully
@@ -80,11 +71,8 @@ As it was first created in 2012, almost 3 years has passed since its birth, but 
 * 파악하다: figure out
 * 기술적으로: technically
 * 가입하다: sign up
-	<li>주민등록번호: resident registration number
-
-* It is similar to social security number.
-
-</li>
+* 주민등록번호: resident registration number
+	* It is similar to social security number.
 
 기술적인 문제는 또 있습니다. "인터넷에 접속한" 학생들만 규제할 수 있다는 것도 큰 문제입니다. 문명처럼 인터넷이 필요 없지만 "미래로 가는 타임머신"이라 불릴 정도로 중독성이 심한 게임들을 제제할 방법은 없습니다. 인터넷 접속을 확인하기 어려운 스마트폰 게임과 콘솔 게임도 규제에서 제외되었습니다. 그래서 온라인 게임만 차별하는 의미 없고 소모적인 규제라는 평이 많습니다.
 
@@ -93,18 +81,12 @@ There are more technical problems. The law can only prohibit the students online
 * 문명: Civilization
 * 타임 머신: time machine
 * 제제하다: restrict, regulate.
-	<li>콘솔 게임: console games
-
-* games that can be played with XBOX or PlayStation
-
-</li>
+* 콘솔 게임: console games
+	* games that can be played with XBOX or PlayStation
 * 차별하다: discriminate
 * 의미 없다: meaningless
-	<li>소모적이다: destructive
-
-* 소모: to consume
-
-</li>
+* 소모적이다: destructive
+	* 소모: to consume
 
 이런 불합리한 점들과 여러 가지 제약으로 인해 모든 학생들을 규제하던 법이 부모가 원한다면 아이가 그 시간대에 게임을 해도 되도록 허락해 주는 것으로 완화될 예정입니다. 하지만 기본 설정이 허가가 아니라 금지이기 때문에 별 차이가 없다는 이야기도 많습니다.
 

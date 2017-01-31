@@ -10,22 +10,16 @@ date: 2015-12-28
 It seems that it was not long after 2015 began, but it's already the last episode of 2015. In this episode, I am going to tell you about the topic different from the ones I've done ever since. It's about Jesus.
 
 * 벌써: already
-	<li>방송: broadcast.
-
-* In this episode, this means episode. Many Koreans tell "in this episode" as "오늘 방송에서는" or "이번 방송에서는"
-
-</li>
+* 방송: broadcast.
+	* In this episode, this means episode. Many Koreans tell "in this episode" as "오늘 방송에서는" or "이번 방송에서는"
 
 이 방송을 계속 들어 오신 분이시라면 가끔 제가 성경 속 인물이나 찬송들을 <span style="color: # ff0000;"><strong>인용</strong></span>하는 것을 들으셨을 것입니다. 분명 그것을 들으면서 "이 사람 그리스도인이로구나"라는 생각을 해 보신 분이 있으실 것입니다. 정확히 맞추셨습니다.
 
 If you are a long-time listener of this podcast, you might have heard that I quoted the people in the Bible or psalms. Some of you must have guessed that "this podcaster is Christian." Yes, you are right.
 
 * 성경: the Bible
-	<li>찬송: Psalms
-
-* The book in the Bible, Psalms which is between The Book of Job and Proverbs, is 시편 in Korean.
-
-</li>
+	* 찬송: Psalms
+	* The book in the Bible, Psalms which is between The Book of Job and Proverbs, is 시편 in Korean.
 * 인용: quote
 * 그리스도인: Christian
 

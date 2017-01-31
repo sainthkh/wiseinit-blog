@@ -25,11 +25,8 @@ The future of one nation is decided by how their next generation is educated. As
 
 The education of North Korea starts at day care centers for babies at the age of 1-3. Those babies learn how to talk, walk and sing, etc. Even from that age, they start to learn the obedience to the rules of the organization and how to serve Kim Il-sung as their father. The North Korean government basically covers all the expenses for the tuition fee for the day care centers. However, North Korean defectors say that these are charged to the parents.
 
-	<li>탁아소: day care center
-
-* In Korea, 탁아소 is not much used, it is usually called 어린이집.
-
-</li>
+* 탁아소: day care center
+ * In Korea, 탁아소 is not much used, it is usually called 어린이집.
 * 조직: organization
 * 규율: rules
 * 순종심: obedience
@@ -76,10 +73,9 @@ One of the educational goals in North Korea is the ongoing of their system. As a
 * 업적: achievement
 * <span style="color: # ff0000;"><strong>논란이 많다</strong></span>: controversial
 * 증거: proof, evidence
-	<li>공을 가로채다: steal other's achievement(s).
-
-* 공: victory, achievement
-* 가로채다: intercept
+* 공을 가로채다: steal other's achievement(s).
+ * 공: victory, achievement. (It's not a ball!)
+ * 가로채다: intercept
 
 </li>
 

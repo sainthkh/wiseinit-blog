@@ -18,16 +18,10 @@ The strongest nation in ancient East Asia was China, the next was Korea and the 
 
 * 고대: ancient
 * 동아시아: East Asia
-	<li>최강국: the strongest country
-
-* 최강: the strongest
-
-</li>
-	<li>섬나라: island country
-
-* 섬: island
-
-</li>
+* 최강국: the strongest country
+	* 최강: the strongest
+* 섬나라: island country
+	* 섬: island
 * 문명: civilization
 * 받아들이다: accept
 * 불리하다: disadvantageous
@@ -40,12 +34,9 @@ However, this order has been changed as Japan accepted western culture and start
 * 왕조: dynasty
 * <span style="color: # ff0000;"><strong>착각하다</strong></span>: delude oneself, have an illusion
 * 관료: bureaucrat
-	<li>백성: people in a country
-
-* 백성 is usually used in old nations, 국민 is usually used to call current people
-* ex) 조선 왕조 백성. 대한민국 국민
-
-</li>
+* 백성: people in a country
+	* 백성 is usually used in old nations, 국민 is usually used to call current people
+	* ex) 조선 왕조 백성. 대한민국 국민
 * 이익: profit
 * 침략: invasion
 * 식민지: colony
@@ -54,11 +45,8 @@ However, this order has been changed as Japan accepted western culture and start
 
 In August 1945, nuclear bombs are dropped in Hiroshima and Nagasaki, and Japan surrendered. Korea became independent.
 
-	<li>핵폭탄: nuclear bomb
-
-* 폭탄: bomb
-
-</li>
+* 핵폭탄: nuclear bomb
+	* 폭탄: bomb
 * 항복: surrender
 * 독립: independence
 
@@ -66,11 +54,8 @@ In August 1945, nuclear bombs are dropped in Hiroshima and Nagasaki, and Japan s
 
 Stalin who ruled Soviet Union at that time had little interest in Korean Peninsula until 1945. However, the cold war deepened and Soviet Union was afraid of US expanding its influences, so Stalin nominated Kim Il-sung as the head of Provisional People's Committee, and let him manage the north of 38th parallel.
 
-	<li>소련: Soviet Union
-
-* 소련 is the shortened form of <strong>소</strong>비에트 <strong>연</strong>방공화국
-
-</li>
+* 소련: Soviet Union
+	* 소련 is the shortened form of <strong>소</strong>비에트 <strong>연</strong>방공화국
 * 한반도: Korean Peninsula
 * 관심: interest
 * 냉전: cold war
@@ -82,11 +67,8 @@ Stalin who ruled Soviet Union at that time had little interest in Korean Peninsu
 
 In 1945, it is decided in Moscow Conference that there will be a trusteeship in Korean Peninsula at most 5 years. Upper part of 38th parallel will be ruled by Soviet Union and lower part by US. As almost every Korean opposed that idea because they thought it is an another way of colonization. Before long, the people in north started to support the trusteeship. This came out from the order of Stalin.
 
-	<li>신탁 통치: trusteeship
-
-* Some countries are governed by other countries because they are not able to rule themselves. It is called a trusteeship, 신탁 통치 in Korean.
-
-</li>
+* 신탁 통치: trusteeship
+	* Some countries are governed by other countries because they are not able to rule themselves. It is called a trusteeship, 신탁 통치 in Korean.
 * 회담: conference
 * 식민 통치: colonization
 * 반대하다: oppose

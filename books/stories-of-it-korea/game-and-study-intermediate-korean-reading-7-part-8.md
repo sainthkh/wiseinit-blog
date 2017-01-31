@@ -109,11 +109,8 @@ According to their standard, the study is also something addictive and it become
 
 * 유해 물질: toxic substance
 * 사회악: social evil
-	<li>수면권: the right of sleep
-
-* 수면: sleep
-
-</li>
+* 수면권: the right of sleep
+	* 수면: sleep
 * 중시: emphasize
 
 12시에는 아이이고 어른이고 잠을 자는 것이 다음 날에 도움이 됩니다. 그렇다 보니 이런 법률을 만든 것이 어느 정도는 이해가 가기는 합니다. 하지만 이 문제를 해결하기 위한 법을 만들기 전에 "사람들은 왜 게임을 하는가?"라는 질문을 한 번 해 보았다면 분명 더 좋은 답이 나오지 않았을까 생각이 듭니다. 게임 속 여러 가지 요소들은 사람들이 뭔가를 배워가는 과정과 닮았습니다. 한국어 공부를 할 때, "안녕하세요"부터 시작하듯, 게임도 처음에는 간단한 조작법부터 시작합니다. 시간이 흐를수록 더 어려운 것을 공부하듯, 게임도 더 어려운 것에 도전합니다. 이런 것에서 보듯이 게임과 공부는 많이 닮았습니다.

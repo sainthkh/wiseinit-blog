@@ -34,9 +34,8 @@ One of the most popular apps in the world are the messengers. Line, one of the 3
 * 자회사: subsidiary
 * 성공: success
 * 흥미롭다: interesting
-	<li>앱: app, application
-
-* Many Koreans also call them 어플.
+* 앱: app, application
+	* Many Koreans also call them 어플.
 
 </li>
 
@@ -83,11 +82,8 @@ The reason for this slow increase is because of the late multiplatform support. 
 * 경우: case
 * 점유율: market share
 * 무척: very
-	<li>버그: bug (in software)
-
-* ordinary insect is called 곤충.
-
-</li>
+* 버그: bug (in software)
+	* ordinary insect is called 곤충.
 * 더디다: slow
 * 전세계적인: global
 * 기회: chance, opportunity

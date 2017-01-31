@@ -16,12 +16,9 @@ date: 2015-11-23
 
 About this time last year, there was a final discussion for regulatory reform. Its objective was to find the regulations that prohibit the economic development and consider about the ways to solve them. In this discussion, one participant said something like this:
 
-	<li>작년 이맘때: this time last year
-
-* this time last month: 지난 달 이맘때
-* this time yesterday: 어제 이맘때
-
-</li>
+* 작년 이맘때: this time last year
+	* this time last month: 지난 달 이맘때
+	* this time yesterday: 어제 이맘때
 * 규제: regulation
 * 개혁: reform
 * 끝장: final, the last
@@ -39,16 +36,10 @@ In China, people cannot buy 천송이 coats if they really want to. It would be 
 
 The TV series, <em>My Love from the Star</em>, became a hit in Korea. However, its popularity in China cannot be ignored. Many Chinese who tried to buy the coats worn by Cheon Song-yi, the female lead of the TV series visited the online stores in Korea, but they couldn't buy them. When trading in Korea sites, verification certificate and some ActiveX programs are required, but it is hard for foreigners to get the certificate.
 
-	<li>별에서 온 그대: My Love from the Star, You who Came from the Star
-
-* The official translation of the drama is <em>My Love from the Star</em>, but <em>You who Came from the Star</em> is fairly common in some sites.
-
-</li>
-	<li>여주인공: female lead
-
-* male lead is usually called 남자 주인공, 남주인공 is rarely used.
-
-</li>
+* 별에서 온 그대: My Love from the Star, You who Came from the Star
+	* The official translation of the drama is <em>My Love from the Star</em>, but <em>You who Came from the Star</em> is fairly common in some sites.
+* 여주인공: female lead
+	* male lead is usually called 남자 주인공, 남주인공 is rarely used.
 * 방문: visit
 * 공인인증서: verification certificate
 
@@ -94,11 +85,8 @@ There's more. It gives only inconveniences to Koreans, but it gives frustration 
 
 It would be great if everyone could trade without these ActiveX programs, but there was no appropriate technology in late 1990s and early 2000s when Korea started to set up high speed Internet nationwide. The specs of the computers at that time were worse than the smartphones these days and the market share of Internet Explorer was more than 90%. If you make something with ActiveX, everyone can use it conveniently at that time, so it was natural to make them like that.
 
-	<li>전국: whole nation
-
-* 전국에 nationwide
-
-</li>
+* 전국: whole nation
+	* 전국에 nationwide
 * 초고속: high speed
 * <span style="color: # ff0000;"><strong>마땅한</strong></span>: appropriate
 * 기술: technology

@@ -37,11 +37,8 @@ In addition, they have to wash and peel the ingredients like onions, carrots, we
 * 양파: onion
 * 당근: carrot
 * 파: welsh onion
-	<li>껍질: peel
-
-* 껍질을 깎다: peel
-
-</li>
+* 껍질: peel
+	* 껍질을 깎다: peel
 * 전념하다: concentrate
 * 역할: role
 
@@ -60,11 +57,8 @@ In other countries, when you deliver something to your house, delivery fee is ch
 
 * 배송비: delivery fee
 * 오토바이: motorcycle
-	<li>봉고차: van
-
-* Bongo is a brand name, but it became a type of car name in Korea, as Google became a verb, meaning search.
-
-</li>
+* 봉고차: van
+	* Bongo is a brand name, but it became a type of car name in Korea, as Google became a verb, meaning search.
 * 싣다: load
 
 짜장면이나 짬뽕 같은 중국 음식의 경우에는 철로 된 가방에 음식을 담아서 가져 오는 경우가 많은데, 그래서 중국집 배달원들을 철가방이라고 부르기도 합니다.

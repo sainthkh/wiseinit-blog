@@ -18,21 +18,15 @@ Last time, I told you that there are black markets called Jangmadang in North Ko
 
 * 암시장: black market
 * 물건: goods, things
-	<li>사고 방식: the way of thinking
-
-* 사고: thinking
-* 방식: ways, means, method
-
-</li>
+* 사고 방식: the way of thinking
+ * 사고: thinking
+ * 방식: ways, means, method
 * 모순: contradiction
 * 체득: learn by experience
-	<li>뼈 저리게: bitterly, seriously
-
-* 뼈: bone
-* 저리다: numb, ache
-* When you feel something intensely, it sometimes makes you feel sick, This is why it is called "뼈 저리게" or "making your bones numb."
-
-</li>
+* 뼈 저리게: bitterly, seriously
+ * 뼈: bone
+ * 저리다: numb, ache
+ * When you feel something intensely, it sometimes makes you feel sick, This is why it is called "뼈 저리게" or "making your bones numb."
 * 세대: Generation
 
 이들은 1990년대 북한에 큰 자연재해가 있던 시절 태어난 사람들입니다. 이 당시에는 재해로 인해 생산된 물건이 별로 없는 데다가 그나마 있던 것까지 김정일이 자신에게 충성하는 군인들에게 그것들을 먼저 배분하면서 이들은 국가의 혜택을 거의 못 받고 자랐습니다.

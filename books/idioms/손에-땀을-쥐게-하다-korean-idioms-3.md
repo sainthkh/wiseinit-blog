@@ -12,18 +12,14 @@ date: 2014-12-15
 
 <iframe id="audio_iframe" src="https://www.podbean.com/media/player/audio/postId/5410817/url/http%253A%252F%252Fwiseinit.podbean.com%252Fe%252F%25EC%2586%2590%25EC%2597%2590-%25EB%2595%2580%25EC%259D%2584-%25EC%25A5%2590%25EA%25B2%258C-%25ED%2595%2598%25EB%258B%25A4%252F/initByJs/1/auto/1?skin=11" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
 
-	<li>When the situation is risky or critical, you can feel the sweat in your palm. To descirbe this situation, Koreans use the phrase "손에 땀을 쥐게 하다."
-
-* 땀: sweat
-* 쥐다: grab
-* word by word translation of "손에 땀을 쥐게 하다" is grabbing sweat in your palm.
-
-</li>
-	<li>This expression can be used when you want to use some expressions like:
-
-* to keep you on the edge of your seat
-* breathtaking
-* cliffhangers
+* When the situation is risky or critical, you can feel the sweat in your palm. To descirbe this situation, Koreans use the phrase "손에 땀을 쥐게 하다."
+	* 땀: sweat
+	* 쥐다: grab
+	* word by word translation of "손에 땀을 쥐게 하다" is grabbing sweat in your palm.
+* This expression can be used when you want to use some expressions like:
+	* to keep you on the edge of your seat
+	* breathtaking
+	* cliffhangers
 
 </li>
 

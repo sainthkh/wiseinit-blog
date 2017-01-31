@@ -13,11 +13,8 @@ https://youtu.be/VcY0RhoJTxM
 * 수능: 대학 수학 능력 시험. College Entrance Exam of Korea
 * 대입: Entering University
 * 자연계: Natural Science and Engineering
-	<li>인문계: Humanities
-
-* In Korea, high schoolers are categorized into 2 majors, 자연계(이과) and 인문계(문과). 자연계 students study science in more detail and 인문계 students study social science.
-
-</li>
+* 인문계: Humanities
+	* In Korea, high schoolers are categorized into 2 majors, 자연계(이과) and 인문계(문과). 자연계 students study science in more detail and 인문계 students study social science.
 
 신문에는 적은 지면에 많은 내용을 담아야 하기 때문에 한자를 사용해서 글자수를 줄입니다. 한글로 쓰면 박근혜 대통령처럼 길게 써야 할 것을 朴자 하나로 짧게 쓸 수 있기 때문입니다.
 

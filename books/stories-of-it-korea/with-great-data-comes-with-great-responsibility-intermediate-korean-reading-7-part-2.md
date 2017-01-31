@@ -16,11 +16,8 @@ date: 2015-11-23
 
 There is a nation that uses Google least. It is Korea. By the statistics in January, 2015, the search market share of Google in PC is 1.54%. It is less than 2 percent. If we see the mobile world, the situation is not different. It is less than 12%. Compared to 75% in the US and near 90% market share in some European countries, the number is too low.
 
-	<li>기준: principle, standard
-
-* 기준으로: As of
-
-</li>
+* 기준: principle, standard
+	* 기준으로: As of
 * 검색: search
 * 점유율: market share
 * 모바일: mobile
@@ -31,11 +28,8 @@ There is a nation that uses Google least. It is Korea. By the statistics in Janu
 
 Related to Google, there is a humor like this.
 
-	<li>우스갯소리: humor
-
-* Koreans use the word, humor, as 유머, too.
-
-</li>
+* 우스갯소리: humor
+	* Koreans use the word, humor, as 유머, too.
 
 우리는 사람들이 구글을 왜 사용하는지 연구해 보았다. 그리고 다음과 같은 결론을 내렸다.
 사람들이 구글을 쓰는 이유: 검색이 잘 되서

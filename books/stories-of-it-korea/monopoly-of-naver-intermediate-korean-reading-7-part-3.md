@@ -20,11 +20,8 @@ If we can monopoly one product in the world, then the price of that product will
 * 가격: price
 * 수요: demand
 * 공급: supply
-	<li>영향을 받다: to be affected
-
-* 영향을 주다: to affect
-
-</li>
+* 영향을 받다: to be affected
+	* 영향을 주다: to affect
 * 입장: position
 * 품질: quality
 * 장기적: in the long run
@@ -50,11 +47,8 @@ As these problems don't exist in the Internet, there are many IT corporations th
 * 기업: corporation
 * 검색: search
 * 시장: market
-	<li>윈도: Windows by Microsoft
-
-* 윈도 is the standard, but you can see 윈도우즈 or 윈도우.
-
-</li>
+* 윈도: Windows by Microsoft
+	* 윈도 is the standard, but you can see 윈도우즈 or 윈도우.
 * 설치: install
 * 전국: all around the nation, all around the country
 
@@ -82,11 +76,8 @@ These are not the only problems caused by monopoly. When people have something c
 
 * 독과점: monopoly and oligopoly (독점과 과점)
 * 공평성: impartiality
-	<li><span style="color: # ff0000;"><strong>만만하지 않다</strong></span>: not easy
-
-* 만만하다: easy
-
-</li>
+* <span style="color: # ff0000;"><strong>만만하지 않다</strong></span>: not easy
+	* 만만하다: easy
 * 민감하다: sensitive
 * 정치적: political
 * 사안: issue

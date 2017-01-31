@@ -66,12 +66,9 @@ In Chess, the lower-skilled player starts the game with white pieces, but it is 
 * 실력: ability, skill
 * 최소: minimum
 * 최대: maximum
-	<li><span style="color: # ff0000;"><strong>고지를 선점하다</strong></span>: preoccupy the advantageous points
-
-* 고지: highland
-* 선점하다: preoccupy
-
-</li>
+* <span style="color: # ff0000;"><strong>고지를 선점하다</strong></span>: preoccupy the advantageous points
+	* 고지: highland
+	* 선점하다: preoccupy
 * 대등한: even
 
 

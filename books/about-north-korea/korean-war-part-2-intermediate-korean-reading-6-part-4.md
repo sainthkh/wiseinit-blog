@@ -97,10 +97,9 @@ The most important thing is that we made many allies. Before this war, South Kor
 
 If we didn't get support and Korea was unified by North Korea, Korean Podcasts like which I am doing now couldn't exist. In addition, Korean dramas, K-pops which make many people have interest in Koreans would not be here for us. It is not wrong to say that we get support from the nations you listeners are from. As we got many things bact then, so we can give back like this now.
 
-	<li>청취자: listener
-
-* Watcher: 시청자
-* As 청취자 is used on radios, 시청자 is used on TV shows.
+* 청취자: listener
+	* Watcher: 시청자
+	* As 청취자 is used on radios, 시청자 is used on TV shows.
 
 </li>
 

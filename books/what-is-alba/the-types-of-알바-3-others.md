@@ -11,11 +11,8 @@ date: 2015-11-23
 
 First of all, let's see translation jobs. It is not translating a whole book, but it is usually a job about translating only 1-2 page articles or company introduction. In some cases, there are some translation companies that work in 2 phases. There is some translations called 1st draft translation, which is done by novices to translate them briefly and experts correct these drafts and submit the final results.
 
-	<li>초벌: first
-
-* first draft: 초안
-
-</li>
+* 초벌: first
+	* first draft: 초안
 * 대강: roughly
 * 전문 번역가: expert translator
 * 제출: submit
@@ -25,11 +22,8 @@ First of all, let's see translation jobs. It is not translating a whole book, bu
 
 Second one is working in construction sites. We usually call this "노가다 뛴다." This work makes you tired because you have to carry heavy things like bricks and sand, so they pay you well. However, you have to spend some money because it makes your body to its limits.
 
-	<li>공사장: construction site
-
-* 공사: construction
-
-</li>
+* 공사장: construction site
+	* 공사: construction
 * 벽돌: brick
 * 모래: sand
 * 지다: carry on back

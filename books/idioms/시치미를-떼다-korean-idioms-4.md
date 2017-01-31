@@ -22,11 +22,8 @@ When somebody pretends to be innocent, or not to know something she exactly know
 
 The origin of this expression goes up to Goryeo Dynasty when the hunting birds with tamed falcons was popular. These tamed falcons were priceless, so they attached the name tag at one feather of these tamed falcons to prevent getting those precious falcons stolen or lost. These name tags were called 시치미. If you detach those 시치미, then you cannot know the owner of the falcon. So there were some people who took 시치미 off and deceived others that the falcon was his own. Therefore, 시치미를 떼다, "detaching a 시치미" got the meaning "playing the innocence" or "pretending not to know something."
 
-	<li>고려: The name of a kingdom before Joseon.
-
-* The name Korea came from this dynasty.
-
-</li>
+* 고려: The name of a kingdom before Joseon.
+	* The name Korea came from this dynasty.
 * 매: falcon
 * 사냥: hunt
 * 도둑 맞다: to get something stolen

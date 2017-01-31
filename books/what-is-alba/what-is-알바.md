@@ -11,9 +11,8 @@ date: 2015-11-23
 
 When you learn Korean, you meet some words that look like they came a foreign language, but they doesn't look like one. Particularly, some English words went into Korea and changed into some odd word. These words are called Konglish. From today, I will tell you about one of Konglish words, 알바, in detail.
 
-	<li>콩글리시: Konglish
-
-* a mixture of Korean and English
+* 콩글리시: Konglish
+	* a mixture of Korean and English. Some odd English-like words that are used in Korean.
 
 </li>
 
@@ -24,12 +23,9 @@ When you learn Korean, you meet some words that look like they came a foreign la
 * 알바: part time job
 * 줄어들다: to be shortened
 * 발음: pronunciation
-	<li>시간제 근무: part-time job
-
-* Formal way of saying 알바.
-* It is used a lot in newspapers.
-
-</li>
+* 시간제 근무: part-time job
+	* Formal way of saying 알바.
+	* It is used a lot in newspapers.
 * 평범한: ordinary
 * 의미: meaning.
 
@@ -44,11 +40,8 @@ In Japanese, part time jobs are called baito. It is my wild guess that this word
 
 When I was young, everyone used the long word 아르바이트, but at some point, almost everyone started to use the word 알바 more. I guess 2 syllable 알바 is more convenient than 5 syllable 아르바이트. Nowadays, it is hard to find someone who uses the long word, 아르바이트.
 
-	<li>5글자인 아르바이트:
-
-* In Korea, a syllable(음절) is a letter(글자), so Koreans prefer to use 글자 to 음절
-
-</li>
+* 5글자인 아르바이트:
+	* In Korea, a syllable(음절) is a letter(글자), so Koreans prefer to use 글자 to 음절
 * <span style="color: # ff0000;"><strong>언제부터인가</strong></span>: at some point
 
 20대 후반 이후에는 대개 취업을 해서 자기 직장에서 일하기 때문에 알바는 10~20대가 용돈을 벌기 위해서 하는 일들이 대다수입니다. 전문성이 요구되는 경우도 적어서, 급여도 그렇게 좋지 않은 편입니다.

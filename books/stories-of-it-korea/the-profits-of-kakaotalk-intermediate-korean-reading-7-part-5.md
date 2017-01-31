@@ -41,22 +41,13 @@ The history of KakaoTalk is not different. The number of users increased rapidly
 
 KakaoTalk started to make profit after they made a virtual currency Choco. It is estimated that they call it that name because chocolate is made from cacao. You can buy the items like themes or emoticons that can be used in KakaoTalk with Choco. Although it is a kind of virtual money, but you can give it as a gift to your friends like certificates.
 
-	<li>가상: virtual
-
-* virtual reality: 가상 현실
-
-</li>
+* 가상: virtual
+	* virtual reality: 가상 현실
 * 수익: profit
-	<li>테마: Theme
-
-* The last e in theme is not pronounced in English, but it is in Korean.
-
-</li>
-	<li>이모티콘: emoticon
-
-* <em>emot</em>ion + <em>icon</em>. Emoticons are some facial expressions you can find in the Internet like :-).
-
-</li>
+* 테마: Theme
+	* The last e in theme is not pronounced in English, but it is in Korean.
+* 이모티콘: emoticon
+	* <em>emot</em>ion + <em>icon</em>. Emoticons are some facial expressions you can find in the Internet like :-).
 * 내부: inside
 * 일종의: a kind of, a sort of
 * 상품권: certificate, voucher
@@ -70,25 +61,16 @@ They couldn't fill up their loss only with Choco, but they changed from loss to 
 * 지원: support
 * 돌아서다: turn back, change
 * 초반: early
-	<li>합병: merge
-
-* acquisition: 인수
-* M&amp;A stands for Merge &amp; Acquisition. It is called 인수합병 in Korean. In English, it is merge in the front, but it is reversed in Korean.
-
-</li>
+* 합병: merge
+	* acquisition: 인수
+	* M&A stands for Merge and Acquisition. It is called 인수합병 in Korean. In English, it is merge in the front, but it is reversed in Korean.
 * 손꼽히다: to be considered
-* 불황: recession (&lt;-&gt; 호황: economic boom)
-	<li>경험: experience
-
-* The experience of the game characters are called 경험치.
-
-</li>
+* 불황: recession (<-> 호황: economic boom)
+* 경험: experience
+	* The experience of the game characters are called 경험치.
 * 광고: advertisement
-	<li><span style="color: # ff0000;"><strong>알게 모르게</strong></span>: subconsciously, unintentionally
-
-* The basic meaning of 알게 모르게 is knowing or not knowing.
-
-</li>
+* <span style="color: # ff0000;"><strong>알게 모르게</strong></span>: subconsciously, unintentionally
+	* The basic meaning of 알게 모르게 is knowing or not knowing.
 * 영향을 주다: affect
 
 카카오톡에서 게임을 할 수 있지만 그 중에 카카오톡에서 만든 게임은 하나도 없습니다. 다른 회사에서 게임을 만들고, 그 게임에서 카카오톡 사용자들의 친구 목록을 사용할 수 있게 해 줄 뿐입니다. 그럼 사람들은 카카오톡 친구들과 게임을 같이 할 수 있게 됩니다. 그리고 그 게임에서 수익이 발생하면 그 수익의 일부를 카카오톡에서 수수료로 받아 갑니다. 이렇게 게임으로부터 버는 돈이 전체 수익의 70% 정도 됩니다.
@@ -107,12 +89,8 @@ They grew up with games, but their growth is now stagnant because there is the l
 * 거래: trade
 * 간편: simple and easy
 * 결제: payment
-	<li>확장: expand
-
-* extend: 연장
-
-</li>
-
+* 확장: expand
+	* extend: 연장
 
 #  Practice
 

@@ -45,12 +45,8 @@ I will try my best not to make mistake like this.
 
 Like long ago, when I did 5분 한국어, I made this episode more like that way, because I wanted to make one. Thank you for your strong support.
 
-	<li>청취: listen
-
-* listener: 청취자
-
-</li>
-
+* 청취: listen
+	* listener: 청취자
 
 #  Practice
 

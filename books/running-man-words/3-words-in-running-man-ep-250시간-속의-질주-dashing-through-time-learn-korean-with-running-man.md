@@ -51,10 +51,7 @@ They warn us for these things:
 * 폭풍: storm
 * 태풍: typhoon
 * 황사: yellow dust
-	<li>미세 먼지: find dust
-
-* fine here doesn't mean good, it means really small or tiny.
-
-</li>
+* 미세 먼지: find dust
+	* fine here doesn't mean good, it means really small or tiny.
 * 건조: dryness
 * 오존: ozone

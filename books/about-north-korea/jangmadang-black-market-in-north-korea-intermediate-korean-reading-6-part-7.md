@@ -20,28 +20,19 @@ In communist system, everything is provided by the government and it is prohibit
 * 제공하다: provide
 * 시장: market
 * 법: law
-	<li>체제: system
-
-* 시장 체제: market economy
-
-</li>
+* 체제: system
+ * 시장 체제: market economy
 * 자본주의: capitalism
 * 잔재: remnant
 * 봉건사회: feudal society
 * 뒤떨어진:  inferior, fall behind
 * 상업: commerce, business
 * 형태: form
-	<li>원칙적으로: in principle
-
-* 원칙: principle
-
-</li>
+* 원칙적으로: in principle
+ * 원칙: principle
 * 공급: supply
-	<li>현실 여건상: in reality
-
-* 여건: condition
-
-</li>
+* 현실 여건상: in reality
+ * 여건: condition
 * 좋은 측면도 있다: has some good sides
 
 있습니다. 장마당이라고 불리는 암시장입니다. 암시장이기 때문에 어두운 곳에 있고 사람들이 잘 찾지 않는 곳에 있을 것 같지만 무척 크기가 크고 잘 보이는 곳에 있습니다. 사람들이 자본주의식 삶을 살지 못하게 감시하는 관료들도 있지만, 그들에게 뇌물만 주면 장사를 할 수 있기 때문에 큰 장마당들이 많이 있습니다.
@@ -81,12 +72,9 @@ In 장마당, there is little value in North Korean currency. North Korean gover
 * 가치: value
 * 허가: permit, allow, approve
 * 할아버지: old gentleman
-	<li>모택동: Mao Zedong
-
-* 모택동 is a way of reading Chinese name, 毛澤東, in Korean Way. We sometimes read it in Chinese way as 마오쩌둥.
-* Koreans usually read old Chinese names in Korean way like 장제석(Chiang Kai-shek), 유비(Liu Bei in 3 Kingdoms). Recent names are read in Chinese pronunciation not in Korean ways.
-
-</li>
+* 모택동: Mao Zedong
+ * 모택동 is a way of reading Chinese name, 毛澤東, in Korean Way. We sometimes read it in Chinese way as 마오쩌둥.
+ * Koreans usually read old Chinese names in Korean way like 장제석(Chiang Kai-shek), 유비(Liu Bei in 3 Kingdoms). Recent names are read in Chinese pronunciation not in Korean ways.
 
 이런 자본주의 시스템이 조금은 흘러들어갔지만 아직도 그곳은 공산주의 국가이기 때문에 이 시스템이 정상적으로 돌아가기에는 어려움이 많습니다. 특히 자기가 잘하는 것, 좋아하는 것을 직업으로 갖는 것이 아니라, 나라에서 시키는 일을 직업으로 가져야 하기 때문에 장마당에 뭔가 팔기 위해서는 자기 직업 외에도 다른 일을 해야 하는 경우도 많습니다.
 

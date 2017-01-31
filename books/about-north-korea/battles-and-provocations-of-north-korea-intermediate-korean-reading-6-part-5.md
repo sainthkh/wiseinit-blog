@@ -51,12 +51,9 @@ In 1987, a KAL airplane taken off from Bagdad went missing over the Indian Ocean
 In 1996, some North Korean soldiers were doing reconnaissance job in a submarine and tried to come back, but there was some problem with their machine and they had to come back on foot. So, about 43000 soldiers tried to catch those 25 North Korean soldiers. In that course, 11 soldiers in our side were dead and 27 got injured. The residents in 강원도 got tremendous psychological and economical damage. At that time, there were many inappropriate reactions by Korean Army, so troops near that area do military drill about that incident every year to remember it.
 
 * 잠수함: submarine
-	<li>동해안: the coast of East Sea
-
-* East Sea is the Korean name of Sea of Japan.
-* Actually, half of the sea is Korean, so it is a bit odd to call it Sea of Japan, but it is also odd to call it East Sea, because that sea is west to Japan. Some argue that it should be East Sea, because it is in the east of Asia. Many people hate to call it Sea of Japan, so even if you call it Sea of Japan in English, you should call it in East Sea(동해) in Korean unless you want to be hated.
-
-</li>
+* 동해안: the coast of East Sea
+ * East Sea is the Korean name of Sea of Japan.
+ * Actually, half of the sea is Korean, so it is a bit odd to call it Sea of Japan, but it is also odd to call it East Sea, because that sea is west to Japan. Some argue that it should be East Sea, because it is in the east of Asia. Many people hate to call it Sea of Japan, so even if you call it Sea of Japan in English, you should call it in East Sea(동해) in Korean unless you want to be hated.
 * 정찰: reconaissance
 * 복귀: come back
 * 육로: land route
@@ -82,9 +79,8 @@ Like these, there were many destroying and killing incidents, there was a fuss l
 
 * 수집: collect
 * 발견: discover, find
-	<li>청와대: Blue House
-
-* The President of South Korea lives here.
+* 청와대: Blue House
+ * The President of South Korea lives here.
 
 </li>
 

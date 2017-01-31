@@ -16,12 +16,9 @@ With English
 In 1949, US Army in Korea retreated. In 1950, US announced the Acheson Line. The line was about the far east defense of the US declared by Acheson, the Secretary of the States at that time. Korean Peninsula and Taiwan are not included inside this line. So, Il-sung Kim misunderstood that US gave up South Korea. He thought it is the chance for him for the unification under communism.
 
 * 국무장관: The Secretary of the States
-	<li>극동방위선: the far east defense line
-
-* 극동: far east
-* 방위: defense
-
-</li>
+* 극동방위선: the far east defense line
+	* 극동: far east
+	* 방위: defense
 * 포기하다: give up
 * 적화통일: unification under communism
 
@@ -36,13 +33,10 @@ In June 23rd, 1950, the high level alert was lifted, and one third of South Kore
 * 공격: attack
 * 집중: concentrate.
 * 함락: fell
-	<li>안전보장의사회: Security Council
-
-* 안전: Security
-* 보장: Guarantee
-* 이사회: Council
-
-</li>
+* 안전보장의사회: Security Council
+	* 안전: Security
+	* 보장: Guarantee
+	* 이사회: Council
 * 원조: support
 
 남한 군은 끊임없이 밀리다가 8월 중순부터는 부산 근처에 있는 낙동강 전선까지 오게 됩니다. 그렇게 9월까지 버텼습니다. 그리고 9월 15일 맥아더 장군이 인천 상륙 작전을 실시합니다. 인천이 조수 간만의 차가 커서 상륙이 쉽지 않은 편이며, 내부적으로 성공 가능성이 1:5000이라고 했다는데, <span style="color: # ff0000;"><strong>다행히</strong></span> 성공을 했고, 9월 28일 다시 서울을 되찾는데 성공합니다.
@@ -51,13 +45,10 @@ The army of South Korea continuously retreated and arrived near Nakdong River ne
 
 * 전선: front line, war line
 * 버티다: persist
-	<li>인천 상륙 작전: Incheon Landing Operation
-
-* 상륙: Landing
-* 작전: Operation
-* It is said that the code name for this operation was Operation Chromite.
-
-</li>
+* 인천 상륙 작전: Incheon Landing Operation
+	* 상륙: Landing
+	* 작전: Operation
+	* It is said that the code name for this operation was Operation Chromite.
 * 조수 간만의 차: the changes in sea level
 * 가능성: possibility
 * <span style="color: # ff0000;"><strong>다행히</strong></span>: luckily
@@ -68,11 +59,8 @@ The army of South Korea continuously retreated and arrived near Nakdong River ne
 The war was almost at the end as UN and South Korea move on to near Aprok River until November, but the army of China intervene and UN started to retreat again. In January 4th, 1951, Seoul fell again. It is called January Fourth Retreat, 1. 4 후퇴 in Korean. After that, Seoul is taken back in March. In June, 1951, a cease-fire agreement started and it is ended in July 27th, 1953. And time passed more than 60 years after that agreement.
 
 * 진출: advance, go
-	<li>중공군: Chinese army
-
-* The reason it is not 중국군 but 중공군 is that China was a communist nation at that time. They added the capitalism into their country later.
-
-</li>
+* 중공군: Chinese army
+	* The reason it is not 중국군 but 중공군 is that China was a communist nation at that time. They added the capitalism into their country later.
 * 개입: intervene
 * 점령: occupy
 * 휴전 협정: cease-fire agreement

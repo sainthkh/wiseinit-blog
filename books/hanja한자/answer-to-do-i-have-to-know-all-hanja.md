@@ -29,22 +29,16 @@ If I say the answer first, you don't have to. The number of Hanja characters Kor
 However, it is definitely more helpful to know more Hanja if you want to build your vocabulary. It is said that about 70% of Korean words are Sino-Korean words. Because of that, you can easily guess the meaning of the words if you know a lot of Hanja. Hanja acts the similar role of word roots in English.
 
 * 어휘력: vocabulary
-	<li>한자어: Sino-Korean words.
-
-* Korean words that contain 한자 Characters.
-
-</li>
+* 한자어: Sino-Korean words.
+	* Korean words that contain 한자 Characters.
 * 추측: guess
 
 또한 한자를 알면 동음이의어를 이해하는데 많은 도움이 됩니다. 똑같이 부자이지만, 어떤 경우에는 아버지와 아들[父子]이고, 어떤 경우에는 돈이 많은 사람[富者]입니다. 똑같은 정의이지만, 하나는 옳은 일을 하는 것[正義]이고, 하나는 어휘의 의미[定義]입니다. 왜 이런 일이 일어났는지는 한자를 알면 이해할 수 있습니다.
 
 In addition, Hanja is also helpful for you to understand homonyms of Korean. It's same 부자, but one is father and son, and the other is a rich person. It's same 정의, but one is doing something right or justice, and the other is definition. You can understand why this happened.
 
-	<li>동음이의어: homonym
-
-* words that have same sound but entirely different meanings
-
-</li>
+* 동음이의어: homonym
+	* words that have same sound but entirely different meanings
 
 그럼 이런 한자들을 어떻게 배워야 할까요? <span style="color: # ff0000;"><strong>무작정</strong></span> 외우는 것보다 새로운 단어를 배울 때마다 관심을 갖는 것이 최선입니다. 새로운 단어를 배울 때, 그 단어를 한자로 어떻게 쓰는지, 그 한자들은 어떤 의미를 갖는지 알아 보면서 하나 둘씩 배워 나가면 됩니다.
 

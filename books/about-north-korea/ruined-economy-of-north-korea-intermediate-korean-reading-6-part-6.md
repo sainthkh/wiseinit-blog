@@ -66,11 +66,8 @@ As Olympic was hosted in Seoul in 1988, North Korea tried to host a bigger world
 
 After the death of 김일성 in 1994, the economy started to be paralyzed, and big natural disaster occured in 1995. This disaster was not so harsh and it was possible to overcome it, Kim Jung-il thought more of the people who are loyal to him than others. He gave food mainly to these loyal people to make his position stronger.
 
-	<li>마비되다: to be paralyzed
-
-* to paralyze is not 마비하다 but 마비시키다.
-
-</li>
+* 마비되다: to be paralyzed
+	* to paralyze is not 마비하다 but 마비시키다.
 * 주민: resident
 * 충성: loyal
 * 배급: distribute

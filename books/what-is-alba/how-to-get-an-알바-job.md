@@ -12,11 +12,8 @@ date: 2015-11-23
 If you want to do 알바, then you should get one. As we are living in the world that everyone has a computer called smartphone in their pockets, you might have guessed that you can get a job only through the Internet, but we can just walk around the streets to find a job. We can even find some posters like "Seeking for 알바 workers. Job: Delivery" on the wall of some shops these days. If you want that job, enter that shop and ask the owner if you can do it.
 
 * 구하다: to seek, to get.
-	<li>주머니: pocket
-
-* pocket money: 용돈
-
-</li>
+* 주머니: pocket
+	* pocket money: 용돈
 * <strong><span style="color: # ff0000;">무작정</span></strong>: just, without thinking
 * 거리, 길거리: street
 * 돌아 다니며: walk around
@@ -62,11 +59,8 @@ After you chose your job like this, you have to submit your resume and cover let
 After the submission, there is an interview. If the competition is not cutthroat, they just call the interviewee to see her face to face. The interview is ended when she is told the exact dates and works and some warnings. On the other hand, if the competition is intense because the job gives you high payments or the work itself is really unique, you have to prepare for it as if you were preparing to enter that company for real.
 
 * 면접: interview
-	<li>경쟁: competition
-
-* competitor: 경쟁자
-
-</li>
+* 경쟁: competition
+	* competitor: 경쟁자
 * 치열하다: cutthroat, intense
 * 유의 사항: warning, caution
 * 시급: hourly payment
