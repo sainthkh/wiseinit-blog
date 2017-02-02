@@ -7,5 +7,6 @@ When you're learning a new language, you'll meet some group of words that can be
 
 Words vs. Words web book series is for those who want to learn these different nuances. In every season, I've covered about 30 groups of words that can be expressed in English as a single word. 
 
-[Season 1](/words-vs-words/season-1/개봉-출간-출시-발매-korean-words-vs-words)
-[Season 2](/words-vs-words/season-2/굽다-튀기다-볶다-지지다-부치다-korean-words-vs-words-s2-1)
+## [Read Season 1](/words-vs-words/season-1/개봉-출간-출시-발매-korean-words-vs-words)
+
+## [Read Season 2](/words-vs-words/season-2/굽다-튀기다-볶다-지지다-부치다-korean-words-vs-words-s2-1)
