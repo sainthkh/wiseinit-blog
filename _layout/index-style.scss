@@ -1,41 +1,65 @@
 .site-header {
-	display: flex;
-
-	padding-bottom: 0.8rem;
-
-	.site-title {
-		font-size: 1.5rem;
-	}
-
-	.site-menu {
-		width: 1.5rem;
-		margin-left: auto;
-	}
-
-	.show-menu-btn {
+	.logo-line {
 		display: flex;
-		align-items: center;
-		justify-content: center;
-
-		width: 1.5rem;
-		height: 1.5rem;
-		padding: 0.1rem;
-
-		font-size: 1.3rem;
-		line-height: 1.3rem;
+		width: 100%;
+		padding-bottom: 0.8rem;
 		
-		background: #eee;
-		border: 1px solid #d9d9d9;
+		.site-title {
+			font-size: 1.5rem;
+		}
+
+		.site-menu-btn-wrap {
+			width: 1.5rem;
+			margin-left: auto;
+
+			.show-menu-btn {
+				display: flex;
+				align-items: center;
+				justify-content: center;
+
+				width: 1.5rem;
+				height: 1.5rem;
+				padding: 0.1rem;
+
+				font-size: 1.3rem;
+				line-height: 1.3rem;
+				
+				background: #eee;
+				border: 1px solid #d9d9d9;
+			}
+		}
 	}
 
-	.site-menu-items {
-		visibility: hidden;
+	.site-menu-wrap {
+		width: 150%;
+		height: 0;
+		margin: 0 -20px;
+		padding: 0 20px;
+		background: #052e71;
+
+		.site-menu-button {
+			display: block;
+			height: 0;
+		}
+
+		&.show {
+			height: 10rem;
+			transition: 0.25s ease-in;
+
+			.site-menu-button {
+				height: 2rem;
+				
+				a {
+					display: block;
+					padding: 0.5rem;
+					color: white;
+					text-decoration: none;
+				}
+			}
+		}
 	}
 
-	.site-menu-button {
-		display: inline-block;
-		max-height: 0;
-	}
+	
 
 	.site-menu-dropdown-content {
 		visibility: hidden;
@@ -51,6 +75,7 @@
 .hero {
 	margin: 0 -20px;
 	padding: 10px;
+	background: #002157;
 
 	perspective: 1000px;
 

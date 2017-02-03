@@ -79,3 +79,7 @@ window.onload = function() {
 		changeFontSize(parseFloat(fontSize))
 	}
 }
+
+function showMainMenu() {
+	document.getElementById('site-menu').classList.toggle('show')
+}
