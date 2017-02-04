@@ -97,11 +97,13 @@ body {
 .main {
 	width: 100%;
 	padding: 10px;
+	padding-bottom: 0;
 	overflow-y: auto;
 
 	.main-content-area {
 		max-width: 100%;
 		padding: 10px;
+		padding-bottom: 0;
 
 		@media(min-width: 1300px) {
 			width: 960px;
