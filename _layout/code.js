@@ -83,3 +83,11 @@ window.onload = function() {
 function showMainMenu() {
 	document.getElementById('site-menu').classList.toggle('show')
 }
+
+function onClickMenuBtn(event) {
+	var e = event || window.event;
+	var target = e.srcElement.id;
+
+	var menuDiv = document.getElementById(target+'-items')
+	menuDiv.classList.toggle('show')
+}

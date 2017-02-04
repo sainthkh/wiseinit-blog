@@ -32,24 +32,28 @@
 
 	.site-menu-wrap {
 		width: 150%;
-		height: 0;
+		max-height: 0;
 		margin: 0 -20px;
 		padding: 0 20px;
 		background: #052e71;
 
 		.site-menu-button {
 			display: block;
-			height: 0;
+			max-height: 0;
+
+			&.academy-link {
+				background: #1850ac;
+			}
 		}
 
 		&.show {
-			height: 10rem;
-			transition: 0.25s ease-in;
+			max-height: 100rem;
+			transition: max-height 1s ease-in;
 
 			.site-menu-button {
-				height: 2rem;
+				max-height: 1000rem;
 				
-				a {
+				& > a {
 					display: block;
 					padding: 0.5rem;
 					color: white;
@@ -59,15 +63,31 @@
 		}
 	}
 
-	
-
 	.site-menu-dropdown-content {
 		visibility: hidden;
-		
-		position: absolute;
+		max-height: 0;
+		margin-left: -20px;
+		border-top: 1px solid #2c5597;
+		border-bottom: 1px solid #2c5597;
 
 		& > a {
+			display: block;
 			max-height: 0;
+			padding: 0.25rem;
+			color: white;
+			text-decoration: none;
+			background: #042a68;
+			padding-left: 2.5rem;
+		}
+
+		&.show {
+			visibility: visible;
+			max-height: 100rem;
+			transition: max-height 1s ease-in;
+
+			& > a {
+				max-height: 100rem;
+			}
 		}
 	}
 }
