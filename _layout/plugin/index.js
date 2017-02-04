@@ -3,7 +3,12 @@ const fs = require('fs')
 
 const rootDir = path.join(__dirname, '../..')
 
-function end() {
+function end(builder) {
+	createPages()
+	createMainPage(builder)
+}
+
+function createPages() {
 	const bookDir = path.join(rootDir, '_book/books')
 	const pagesDir = path.join(rootDir, '_book/pages')
 	if(!fs.existsSync(pagesDir)) {
@@ -25,6 +30,33 @@ function copyHtml(dir) {
 				}
 			}
 	})
+}
+
+function createMainPage(builder) {
+	let recentPosts = builder.orderedPosts.slice(0, 6)
+
+	let html = recentPosts.map(post => {
+		let summary = post.__content.split(' ').slice(0, 80).join(' ')
+		summary = builder.compileContent(summary)
+		return [
+			`<div class="main-page-post">`,
+			`<div class="post-title">`,
+			`<a href="/${post.baseUrl}">${post.title}</a>`,
+			`</div>`,
+			`<div class="post-summary">`,
+			`${summary}`,
+			`</div>`,
+			`<div class="post-cta">`,
+			`<a href="/${post.baseUrl}">Read More</a>`,
+			`</div>`,
+			`</div>`,
+		].join('\n')
+	}).join('\n')
+
+	let mainPagePath = path.join(rootDir, '_book/index.html')
+	let mainPage = fs.readFileSync(mainPagePath).toString()
+	mainPage = mainPage.replace('[[[posts]]]', html)
+	fs.writeFileSync(mainPagePath, mainPage)
 }
 
 module.exports = {

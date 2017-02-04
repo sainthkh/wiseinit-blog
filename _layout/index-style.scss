@@ -89,6 +89,46 @@
 		margin: 0.5rem 0;
 		font-size: 1.2rem;
 	}
+
+	.main-page-post {
+		background: #eaeaff;
+		border: 1px solid #cdb4ff;
+		padding: 0.5rem;
+		margin-bottom: 1rem;
+
+		.post-title {
+			padding-bottom: 0.5rem;
+			border-bottom: 1px solid #2e3092;
+			margin-bottom: 0.8rem;
+
+			a {
+				font-size: 1.5rem;
+				text-decoration: none;
+				color: black;
+				font-weight: bold;
+			}
+		}
+
+		.post-summary {
+			p {
+				margin: 0;
+				margin-bottom: 0.5rem;
+			}
+		}
+
+		.post-cta {
+			display: flex;
+			justify-content: center;
+			
+			a {
+				display: inline-block;
+				padding: 0.3rem 1rem;
+				background: #115f7e;
+				color: white;
+				text-decoration: none;
+			}
+		}
+	}
 }
 
 footer {
