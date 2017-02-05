@@ -1,8 +1,29 @@
+.main-content-area.main-page {
+	@media (min-width: 960px) {
+		padding: 0;
+		width: 960px;
+		margin: 0 auto;
+	}
+}
+
 .site-header {
+	$header-height: 2.5rem;
+	display: flex;
+	flex-wrap: wrap;
+	height: $header-height;
+
+	@media(min-width: 700px) {
+		flex-wrap: nowrap;
+	}
+
 	.logo-line {
 		display: flex;
 		width: 100%;
 		padding-bottom: 0.8rem;
+
+		@media(min-width: 700px) {
+			width: 28%;
+		}
 		
 		.site-title {
 			font-size: 1.5rem;
@@ -27,19 +48,51 @@
 				background: #eee;
 				border: 1px solid #d9d9d9;
 			}
+
+			@media(min-width: 700px) {
+				display: none;
+			}
 		}
 	}
 
 	.site-menu-wrap {
+		visibility: hidden;
 		width: 150%;
 		max-height: 0;
 		margin: 0 -20px;
 		padding: 0 20px;
 		background: #052e71;
 
+		@media(min-width: 700px) {
+			display: flex;
+			visibility: visible;
+			width: 70%;
+			height: $header-height;
+			max-height: inherit;
+			margin: 0;
+			margin-left: auto;
+			padding: 0;
+
+			background: inherit;
+		}
+
+		.site-menu-items {
+			@media(min-width: 700px) {
+				display: flex;
+				height: inherit;
+				margin-left: auto;
+				align-items: center;
+			}
+		}
+
 		.site-menu-button {
 			display: block;
 			max-height: 0;
+
+			@media(min-width: 700px) {
+				max-height: inherit;
+				margin-left: 2rem;
+			}
 
 			&.academy-link {
 				background: #1850ac;
@@ -47,6 +100,7 @@
 		}
 
 		&.show {
+			visibility: visible;
 			max-height: 100rem;
 			transition: max-height 1s ease-in;
 
@@ -66,9 +120,13 @@
 	.site-menu-dropdown-content {
 		visibility: hidden;
 		max-height: 0;
-		margin-left: -20px;
+		margin: 0 -20px;
 		border-top: 1px solid #2c5597;
 		border-bottom: 1px solid #2c5597;
+
+		@media(min-width: 700px) {
+			width: 0;
+		}
 
 		& > a {
 			display: block;
@@ -99,6 +157,10 @@
 
 	perspective: 1000px;
 
+	@media(min-width: 960px) {
+		margin: 0;
+	}
+
 	.cube-plane {
 		background: #002157;
 	}
@@ -110,11 +172,27 @@
 		font-size: 1.2rem;
 	}
 
+	.posts {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
 	.main-page-post {
 		background: #eaeaff;
 		border: 1px solid #cdb4ff;
 		padding: 0.5rem;
 		margin-bottom: 1rem;
+
+		@media(min-width: 700px) {
+			width: 49%;
+			box-sizing: border-box;
+		}
+
+		&:nth-child(2n+1) {
+			@media(min-width: 700px) {
+				margin-right: 2%;
+			}
+		}
 
 		.post-title {
 			padding-bottom: 0.5rem;
@@ -153,6 +231,11 @@
 
 footer {
 	margin: 0 -20px;
+
+	@media(min-width: 960px) {
+		margin: 0;
+	}
+
 	.sns-list {
 		display: flex;
 		align-items: center;
