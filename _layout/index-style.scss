@@ -10,10 +10,10 @@
 	$header-height: 2.5rem;
 	display: flex;
 	flex-wrap: wrap;
-	height: $header-height;
 
 	@media(min-width: 700px) {
 		flex-wrap: nowrap;
+		height: $header-height;
 	}
 
 	.logo-line {
@@ -91,7 +91,7 @@
 
 			@media(min-width: 700px) {
 				max-height: inherit;
-				margin-left: 2rem;
+				margin-left: 1.5rem;
 			}
 
 			&.academy-link {
@@ -125,6 +125,7 @@
 		border-bottom: 1px solid #2c5597;
 
 		@media(min-width: 700px) {
+			position: absolute;
 			width: 0;
 		}
 
@@ -140,11 +141,20 @@
 
 		&.show {
 			visibility: visible;
+			width: inherit;
 			max-height: 100rem;
 			transition: max-height 1s ease-in;
+			margin: 0;
+			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+			z-index: 2;
 
 			& > a {
 				max-height: 100rem;
+				padding: 0.5rem;
+
+				&:hover {
+					background: #0f4191;
+				}
 			}
 		}
 	}

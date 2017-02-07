@@ -18,14 +18,11 @@ function showFontSizeMenu() {
 
 window.onclick = function(event) {
 	if(!ancesterHasClass(event.target, 'font-btn')) {
-		var dropdowns = document.getElementsByClassName("dropdown-content");
-		var i;
-		for (i = 0; i < dropdowns.length; i++) {
-			var openDropdown = dropdowns[i];
-			if (openDropdown.classList.contains('show')) {
-				openDropdown.classList.remove('show');
-			}
-		}
+		hideMenu('dropdown-content')
+	}
+
+	if(!ancesterHasClass(event.target, 'menu-dropdown-btn')) {
+		hideMenu('site-menu-dropdown-content')
 	}
 }
 
@@ -36,6 +33,17 @@ function ancesterHasClass(target, name) {
 			return true
 		}
 		node = node.parentNode
+	}
+}
+
+function hideMenu(className) {
+	var dropdowns = document.getElementsByClassName(className);
+	var i;
+	for (i = 0; i < dropdowns.length; i++) {
+		var openDropdown = dropdowns[i];
+		if (openDropdown.classList.contains('show')) {
+			openDropdown.classList.remove('show');
+		}
 	}
 }
 
@@ -87,6 +95,10 @@ function showMainMenu() {
 function onClickMenuBtn(event) {
 	var e = event || window.event;
 	var target = e.srcElement.id;
+
+	if(window.innerWidth >= 700) {
+		hideMenu('site-menu-dropdown-content')
+	}
 
 	var menuDiv = document.getElementById(target+'-items')
 	menuDiv.classList.toggle('show')
