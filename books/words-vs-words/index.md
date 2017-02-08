@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2017-02-01
+date: 2016-02-01
 ---
 
 When you're learning a new language, you'll meet some group of words that can be express as a single word in your mother tongue. If they are interchangeable, it's not a big deal, but in most cases, they have their own nuance and if you ignore it, the sentences become weird. 

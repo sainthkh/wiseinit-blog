@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2017-02-01
+date: 2016-02-01
 ---
 
 Koreans don't read Hangeul as-is. There are many changes. 

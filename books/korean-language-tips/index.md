@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2017-02-01
+date: 2016-02-01
 ---
 
 To learn language in more efficient and effective way, you should not only learn words, grammars, but also how to learn new language.

@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2017-02-01
+date: 2016-02-01
 ---
 
 Konglish is Korean + English. 

@@ -1,6 +1,6 @@
 ---
 title: Introduction
-date: 2017-02-01
+date: 2016-02-01
 ---
 
 수능 is the college entrance exam in Korea which takes place every November. This is a big national event. 
