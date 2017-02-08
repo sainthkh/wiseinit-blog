@@ -36,7 +36,12 @@ function createMainPage(builder) {
 	let recentPosts = builder.orderedPosts.slice(0, 6)
 
 	let html = recentPosts.map(post => {
-		let summary = post.__content.split(' ').slice(0, 80).join(' ')
+		let content = post.__content
+		content = content.replace(/<.*?>/g, '')
+		content = content.replace(/!\[.*\]\(.*\)/g, '')
+		content = content.replace(/# Korean Only/g, '')
+		content = content.replace(/# With English( Translations)?/g, '')
+		let summary = content.split(' ').slice(0, 80).join(' ')
 		summary = builder.compileContent(summary)
 		return [
 			`<div class="main-page-post">`,
