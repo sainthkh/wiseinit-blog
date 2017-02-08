@@ -91,11 +91,30 @@
 
 			@media(min-width: 700px) {
 				max-height: inherit;
-				margin-left: 1.5rem;
+				margin-left: 0.5rem;
+				
+				& > a {
+					color: black;
+					text-decoration: none;
+					padding: 0.5rem;
+
+					&:hover {
+						background: #afd5fd;
+					}
+				}
 			}
 
 			&.academy-link {
-				background: #1850ac;
+				& > a {
+					background: #1850ac;
+					@media(min-width: 700px) {
+						color: white;
+
+						&:hover {
+							background: #031a32;
+						}
+					}
+				}
 			}
 		}
 
@@ -161,6 +180,7 @@
 }
 
 .hero {
+	display: flex;
 	margin: 0 -20px;
 	padding: 10px;
 	background: #002157;
@@ -173,6 +193,34 @@
 
 	.cube-plane {
 		background: #002157;
+
+		@media(min-width: 700px) {
+			display: flex;
+			justify-content: center;
+			flex-wrap: wrap;
+		}
+	}
+
+	.signup-form {
+		@media(min-width: 700px) {
+			form {
+				display: flex;
+				justify-content: center;
+				flex-wrap: wrap;
+			}
+			
+			#join {
+				width: 12rem;
+				color: white;
+				background: #f26522;
+				border: none;
+				cursor: pointer;
+
+				&:hover {
+					background: #e35613;
+				}
+			}
+		}
 	}
 }
 
